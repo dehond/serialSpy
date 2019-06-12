@@ -19,6 +19,6 @@ Into this (using com0com):
 |                   COMPUTER                    |      |  DEVICE  |
 |                        _____________________  |      |          |
 |                       |     serialSpy.py    | |      |          |
-| Program--virtualCom1--|--virtualCom2--COMx--|-|------|          |
+| Program--virtualCOMy--|--virtualCOMz--COMx--|-|------|          |
 |                       |_____________________| |      |          |
 |_______________________________________________|      |__________|

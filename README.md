@@ -5,6 +5,7 @@ to spy on talk to a virtual port you've set up using that utility. Configure
 the port of your physical device.
 
 Turns this:
+
      _____________________________________________          __________ 
     |                   COMPUTER                  |        |  DEVICE  |
     |                                             |        |          |
@@ -15,6 +16,7 @@ Turns this:
 
 
 Into this (using com0com):
+
      _______________________________________________        __________ 
     |                   COMPUTER                    |      |  DEVICE  |
     |                        _____________________  |      |          |
